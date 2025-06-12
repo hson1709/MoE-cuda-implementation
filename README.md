@@ -1,5 +1,3 @@
-You can only modify `csrc` folder
-
 # Build
 
 ```bash
